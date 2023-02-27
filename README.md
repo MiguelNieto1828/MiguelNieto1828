@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@leyzin18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@leyzin18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/miguel nieto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel nieto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miguelnieto28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel nieto" height="30" width="40" /></a>
 <a href="https://instagram.com/miguelnieto18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miguelnieto18" height="30" width="40" /></a>
 <a href="https://discord.gg/Leyzin#3389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Leyzin#3389" height="30" width="40" /></a>
 </p>
